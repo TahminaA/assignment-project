@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    
+}
+.orange-highlight{
+    color:orange;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-top: 190px;
+    margin-right: 2%;
+    padding-left: 8%;
+  
+    
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(163, 140, 136));
+    background-color:#f3658c;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+   
+
+}
+p{
+    color:dimgrey;
+}
+h5{
+    color:#9e9e9e;
+
+}
+section{
+    height: 700px;
+    padding-bottom: 150px;
+
+}
+.half-width img{
+    width:100%;
+}
+.header-banner{
+    background-image: url("images/header-bg.png");
+    background-position: center;
+   
+}
+.bio-banner{
+    background-image: url("images/biography-bg.png");
+    background-position: bottom;
+    
+}
+.lastest-work img{
+
+    float: left;
+    margin-top: 40px;
+    width: 20%;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+#lastest-work{
+    margin-top: 60px;
+    text-align: center;
+}
+.lastest-banner{
+    
+    background-image: url("images/latest-work-bg.png");
+    background-position:center;
+}
+.client-text{
+    text-align: center;
+}
+
+.footer-banner{
+    
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+#button{
+    margin-top: 20px;
+    border-radius: 5px;
+    height: 100px;
+    width: 30%;
+    background-image: linear-gradient(45deg,rgb(163, 140, 136));
+    background-color:#f3658c;
+    padding: 10px 20px;
+    color: white;
+    
+}
+.email-id{
+    font-size: 20px;
+}
+
+
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+
+
